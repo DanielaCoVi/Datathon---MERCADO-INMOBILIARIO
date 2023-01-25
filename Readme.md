@@ -21,8 +21,8 @@
 <hr>
 
 
-<p align=center>
-<img src = 'https://drive.google.com/file/d/1DbYzf_erGwxDKVRWy4IaMP_ea71xW5IZ/view?usp=sharing'><p>
+
+ ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShd1jp7GvgCSqhSfrE2CAS2Wu7MlCwJ0p7-A&usqp=CAU)
 
 # <h1 align=center>*`¿Qué es un modelo de Machine Learning?`*</h1>
 
