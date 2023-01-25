@@ -23,7 +23,7 @@
 
 <p align=center>
 <img src = 'D:\Berenice\Machine_Learning_models_PI\PIPELINE.png
-' height=250><p>
+'><p>
 
 # <h1 align=center>*`¿Qué es un modelo de Machine Learning?`*</h1>
 
