@@ -21,8 +21,7 @@
 <hr>
 
 
-
- ![](D:\Berenice\Machine_Learning_models_PI\PIPELINE.png)
+![](D:\Berenice\Machine_Learning_models_PI\PIPELINE.png)
 
 # <h1 align=center>*`¿Qué es un modelo de Machine Learning?`*</h1>
 
