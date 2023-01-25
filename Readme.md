@@ -22,7 +22,7 @@
 
 
 <p align=center>
-<img src = 'https://drive.google.com/file/d/1DbYzf_erGwxDKVRWy4IaMP_ea71xW5IZ/view?usp=share_link'><p>
+<img src = 'https://drive.google.com/file/d/1DbYzf_erGwxDKVRWy4IaMP_ea71xW5IZ/view?usp=sharing'><p>
 
 # <h1 align=center>*`¿Qué es un modelo de Machine Learning?`*</h1>
 
