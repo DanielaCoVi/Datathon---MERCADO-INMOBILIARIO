@@ -22,7 +22,7 @@
 
 
 
- ![](https://drive.google.com/file/d/1DbYzf_erGwxDKVRWy4IaMP_ea71xW5IZ/view?usp=sharing)
+ ![](D:\Berenice\Machine_Learning_models_PI\PIPELINE.png)
 
 # <h1 align=center>*`¿Qué es un modelo de Machine Learning?`*</h1>
 
